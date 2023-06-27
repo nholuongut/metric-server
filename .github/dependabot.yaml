@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: gitlab-actions
+    directory: /
+    schedule:
+      interval: weekly
